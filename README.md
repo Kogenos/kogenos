@@ -47,6 +47,24 @@
 
 ---
 
+## 🧰 Мои инструменты
+
+<div align="center">
+  
+  ⌨️ **Редакторы:** VS Code · GoLand  
+  🐧 **ОС:** Ubuntu 22.04 / Linux (bash)  
+  🐳 **Контейнеризация:** Docker · Docker Compose  
+  🔧 **Сборка:** Make · CMake (базово)  
+  📦 **Базы данных:** PostgreSQL · pgAdmin · SQLite  
+  🌐 **Сеть / прокси:** nginx · iptables  
+  🔁 **CI/CD:** GitLab CI · GitHub Actions (базово)  
+  🧪 **Тестирование:** GTest/Check · testify · httptest  
+  🐙 **Контроль версий:** Git (CLI) · GitLab · GitHub  
+
+</div>
+
+---
+
 ## 🔥 Ключевые проекты
 
 | Проект | Описание | Технологии |
