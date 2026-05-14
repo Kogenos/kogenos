@@ -16,10 +16,10 @@
 
 ## 🚀 Обо мне
 
-Я начинающий **Golang-разработчик** с сильным бэкграундом в системном программировании (C) и администрировании Linux. Мой путь — не стандартные лекции, а реальные проекты, написанные с нуля, ревью и постоянное обучение.
+Я начинающий **Golang-разработчик** с сильным бэкграундом в системном программировании (C) и администрировании Linux. Люблю писать чистый, тестируемый код и разбираться, как всё работает под капотом.
 
 - 🔭 Сейчас углубляюсь в микросервисы, gRPC и Kubernetes.
-- 🌱 Люблю писать чистый, тестируемый код и разбираться, как всё работает под капотом.
+- 🌱 Постоянно учусь через создание реальных проектов.
 - 🎯 Ищу стажировку / Junior-позицию в Go-команду.
 
 ---
@@ -39,29 +39,18 @@
 
 ---
 
-## 📊 GitHub статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandrRogachev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrRogachev&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrRogachev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
-</div>
-
----
-
-## 🔥 Немного о моих проектах
+## 🔥 Ключевые проекты
 
 | Проект | Описание | Технологии |
 |--------|----------|-------------|
-| [**go-todo-api**](https://github.com/AlexandrRogachev/go-todo-api) | REST API для заметок с JWT и PostgreSQL | Go, gin, JWT, PostgreSQL, Docker |
-| [**concurrent-demo**](https://github.com/AlexandrRogachev/concurrent-demo) | Горутины, каналы, WaitGroup, worker pool | Go (concurrency) |
-| [**matrix-calc**](https://github.com/AlexandrRogachev/matrix-calc) | Библиотека для работы с матрицами (алгебраические операции) | C, Makefile, Unit tests |
-| [**c-docker-nginx**](https://github.com/AlexandrRogachev/c-docker-nginx) | Веб-сервер на C + FastCGI, запуск через Docker + nginx | C, Docker, nginx |
+| **Консольные утилиты на Go** | Калькулятор, топ K слов, пересечение списков, журнал посещений | Go (std lib), unit-тесты |
+| **Конкурентное программирование** | Горутины с WaitGroup, конвейер (генератор → квадрат), тикер на time.Sleep | Go (goroutines, channels, signals) |
+| **Веб-приложение (Крестики-Нолики)** | REST API с ИИ (минимакс), JWT-авторизация, PostgreSQL, слоистая архитектура | Go, net/http, JWT, pgx, uber-fx |
+| **Системное программирование на C** | string.h + sprintf/sscanf, decimal (128 бит), матричная библиотека, Тетрис с ncurses | C11, Makefile, GTest/Check |
+| **DevOps: Linux + Docker + CI/CD** | Настройка сетей, Docker-образ с веб-сервером, GitLab CI (сборка, тесты, деплой) | Bash, Docker, GitLab CI, nginx |
+| **SQL (PostgreSQL)** | Сложные запросы, индексы, транзакции, триггеры, хранимые функции | PostgreSQL, PL/pgSQL |
 
-> *Не все репозитории публичны, но я могу предоставить доступ по запросу.*
+> *Код всех проектов выложен в открытых репозиториях или предоставляется по запросу.*
 
 ---
 
