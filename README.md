@@ -16,7 +16,7 @@
 
 ## 🚀 Обо мне
 
-Я начинающий **Golang-разработчик** с сильным бэкграундом в системном программировании (C) и администрировании Linux. Люблю писать чистый, тестируемый код и разбираться, как всё работает под капотом.
+Я начинающий **Golang-разработчик** с сильным бэкграундом в системном программировании (C/C++) и администрировании Linux. Люблю писать чистый, тестируемый код и разбираться, как всё работает под капотом.
 
 - 🔭 Сейчас углубляюсь в микросервисы, gRPC и Kubernetes.
 - 🌱 Постоянно учусь через создание реальных проектов.
@@ -29,6 +29,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -47,6 +48,7 @@
 | **Конкурентное программирование** | Горутины с WaitGroup, конвейер (генератор → квадрат), тикер на time.Sleep | Go (goroutines, channels, signals) |
 | **Веб-приложение (Крестики-Нолики)** | REST API с ИИ (минимакс), JWT-авторизация, PostgreSQL, слоистая архитектура | Go, net/http, JWT, pgx, uber-fx |
 | **Системное программирование на C** | string.h + sprintf/sscanf, decimal (128 бит), матричная библиотека, Тетрис с ncurses | C11, Makefile, GTest/Check |
+| **ООП на C++** | Класс для работы с матрицами (конструкторы, операторы, методы) | C++20, Google Style, GTest |
 | **DevOps: Linux + Docker + CI/CD** | Настройка сетей, Docker-образ с веб-сервером, GitLab CI (сборка, тесты, деплой) | Bash, Docker, GitLab CI, nginx |
 | **SQL (PostgreSQL)** | Сложные запросы, индексы, транзакции, триггеры, хранимые функции | PostgreSQL, PL/pgSQL |
 
