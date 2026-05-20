@@ -49,7 +49,7 @@
 
 ## 🧰 Мои инструменты
 
-<div align="center">
+<div align="left">
   
   ⌨️ **Редакторы:** VS Code · GoLand  
   💻 **ОС:** macOS (основная) · Linux (виртуалки / серверы)  
