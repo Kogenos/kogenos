@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Alexander+Rogachev;Junior+Golang+Developer;Backend+Enthusiast" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Open_to_work-ON-green?style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>
-
-<br/>
-
 <div align="center">
   <!-- Терминальная анимация: анимированная печать команд в стиле терминала -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=33FF33&center=true&vCenter=true&width=550&lines=~%24+go+run+server.go;Server+started+on+port+8080;~%24+git+push+origin+main;Everything+up-to-date;~%24+ls+projects/;brickgame++tetris++docker;~%24+echo+%22Ready+for+work%22;Ready+for+work" alt="Terminal animation" />
