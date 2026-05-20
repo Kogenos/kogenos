@@ -3,8 +3,16 @@
 -->
 
 <div align="center">
-  <h3>⚡ Junior Golang Developer | Backend Enthusiast</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Alexander+Rogachev;Junior+Golang+Developer;Backend+Enthusiast" alt="Typing SVG" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open_to_work-ON-green?style=for-the-badge&logo=linkedin&logoColor=white" />
+</div>
+
+<br/>
 
 <div align="center">
   <!-- Терминальная анимация: анимированная печать команд в стиле терминала -->
